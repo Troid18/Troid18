@@ -12,8 +12,8 @@ I'm a growth-focused developer actively building my technical skills while mento
 
 | Area | Tools |
 |------|-------|
-| **Frontend** | HTML • CSS • JavaScript • REACT(Learning) |
-| **Backend (Learning)** | Python • SQL • Node.js |
+| **Frontend** | HTML • CSS • JavaScript • REACT |
+| **Backend (Learning)** | Python • SQL • Node.js(Laerning) |
 | **Data & Tools** | SQL • Python for Data Science • Pandas • NumPy • Git • Docker|
 | **Other Skills** | System Design • Mentorship • Agile Practices |
 
