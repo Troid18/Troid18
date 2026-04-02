@@ -31,6 +31,7 @@ Even with small projects, I focus on clean structure, functionality, and learnin
 | 🎓 Rock Paper Scissors | A challenge i did to showcase the knowledge i have for python | Python |
 
 > 📌 *More projects coming soon as I grow my skills and build my technical portfolio in coming months.*
+> Update: New projects have been uploaded!
 
 ---
 
