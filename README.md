@@ -17,37 +17,6 @@ I'm a growth-focused developer actively building my technical skills while mento
 | **Data & Tools** | SQL • Python for Data Science • Pandas • NumPy • Git • Docker|
 | **Other Skills** | System Design • Mentorship • Agile Practices |
 
----
-
-## 🚀 Featured Projects
-
-Even with small projects, I focus on clean structure, functionality, and learning progress:
-
-| Project | Description | Tech |
-|--------|-------------|------|
-| 🌍 Pine city Zoo | This is where my **HTML & CSS** began. Where my spark for front-end began | HTML, CSS |
-| 🧮 JavaScript Calculator | Built to improve DOM interaction & event handling | HTML, CSS, JS |
-| 📝 Business Card | A small business card about myself with a bit of complex css practice **Flexbox** | HTML & CSS |
-| 🎓 Rock Paper Scissors | A challenge i did to showcase the knowledge i have for python | Python |
-
-> 📌 *More projects coming soon as I grow my skills and build my technical portfolio in coming months.*
-> Update: New projects have been uploaded!
-
----
-
-## 📈 Currently Learning & Improving
-
-- Advancing **Javascript** for frontend & backend development    
-- Enhancing UI design & responsiveness  
-- Building complete projects from real-world problems
-
----
-
-## 🛠 Upcoming Projects
-
-I'm actively working towards developing more robust tech solutions! Description is coming soon!
-
----
 
 ## 🏆 Highlights & Experience
 
@@ -62,7 +31,7 @@ I'm actively working towards developing more robust tech solutions! Description 
 
 📬 **Email:** *mjmaphutha03@gmail.com*  
 🔗 **LinkedIn:**https://www.linkedin.com/in/joseph-maphutha-699417381/**  
-🖥️ Portfolio Website: *https://subtle-elf-8d688f.netlify.app/*  
+
 
 ---
 
